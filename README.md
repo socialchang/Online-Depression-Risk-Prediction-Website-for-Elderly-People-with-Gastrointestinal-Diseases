@@ -1,0 +1,2 @@
+# Online-Depression-Risk-Prediction-Website-for-Elderly-People-with-Gastrointestinal-Diseases
+his online depression risk prediction website is designed for elderly people with gastrointestinal diseases. It uses machine - learning models to analyze multiple factors like psychosocial state, symptoms, etc. Users input personal clinical features, such as gender, pain, and ADL score. The website then quickly provides depression risk estimates.
